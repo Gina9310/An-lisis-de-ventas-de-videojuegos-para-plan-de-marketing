@@ -1,6 +1,27 @@
-# An-lisis-de-ventas-de-videojuegos-para-plan-de-marketing
-Análisis ventas para plan de marketing
 
-Este proyecto tiene como objetivo analizar el comportamiento de ventas de videojuegos a nivel global para identificar tendencias de mercado, plataformas más rentables y factores que influyen en el éxito de un videojuego.
+# 📊 Análisis de Ventas de Videojuegos para Plan de Marketing
 
-El análisis se enfoca en detectar proyectos prometedores y planificar campañas publicitarias.
+Este proyecto analiza las ventas de videojuegos a nivel mundial con el objetivo de identificar tendencias de mercado y apoyar la toma de decisiones en estrategias de marketing.  
+El análisis se realiza en Python dentro de un Jupyter Notebook.
+
+---
+
+## 📂 Contenido del repositorio
+- `videojuegos por todo el mundo.ipynb` → Notebook principal con el análisis paso a paso.
+- `games.csv` → Dataset con información de ventas de videojuegos.
+- `dashboard_videojuegos.png` → Visualización resumen de los resultados.
+- `README.md` → Documentación del proyecto.
+
+---
+
+## ⚙️ Requisitos
+- Python 3.10+
+- Jupyter Notebook
+- Librerías:
+  - pandas
+  - matplotlib
+  - seaborn
+
+Instalación rápida:
+```bash
+pip install pandas matplotlib seaborn
